@@ -1,7 +1,11 @@
-# Python code implementing the CSVDtransformer:
+# Python code for the CSVDtransformer:
 ```
 Weikang Gong et. al "A foundation model for mapping the phenomic and genetic landscape of cerebral small vessel disease biomarkers" Medrxiv, 2025.
 ```
+
+## Requirements
+The code should work fine in multiple 3.x python environments. The pytorch 2.x+ and nibabel modules should be installed before running it.
+
 ## Usage
 1. Download the example data and model check points from this [link](https://github.com/weikanggong1/CSVDtransformer). Put them in the same directory as the apply_model.py script.
 2. Please cd to the directory, and run the following code to perform the inference.
