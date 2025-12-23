@@ -7,7 +7,7 @@ Weikang Gong et. al. "A foundation model for mapping the phenomic and genetic la
 The code should work fine in multiple 3.x python environments. The pytorch 2.x+ and nibabel modules should be installed before running it.
 
 ## Usage
-1. Download the example data and model checkpoints from this [link]([https://github.com/weikanggong1/CSVDtransformer](https://drive.google.com/file/d/1Qfu9ppTrKOr6mD51C5p9jIpN-Y9rZIa3/view?usp=drive_link)). Unzip it in the same directory as the apply_model.py script.
+1. Download the example data and model checkpoints from this [link](https://drive.google.com/file/d/1Qfu9ppTrKOr6mD51C5p9jIpN-Y9rZIa3/view?usp=drive_link). Unzip it in the same directory as the apply_model.py script.
 2. Please cd to the directory, and run the following command to perform the inference.
 ```
 python apply_model.py
