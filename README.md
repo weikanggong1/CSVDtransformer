@@ -1,6 +1,6 @@
 # Python code for the CSVDtransformer:
 ```
-Weikang Gong et. al "A foundation model for mapping the phenomic and genetic landscape of cerebral small vessel disease biomarkers" Medrxiv, 2025.
+Weikang Gong et. al. "A foundation model for mapping the phenomic and genetic landscape of cerebral small vessel disease biomarkers", MedRxiv, 2025.
 ```
 
 ## Requirements
