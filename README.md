@@ -2,6 +2,7 @@
 ```
 Weikang Gong et. al. "A foundation model for mapping the phenomic and genetic landscape of cerebral small vessel disease biomarkers", MedRxiv, 2025.
 ```
+https://www.medrxiv.org/content/10.64898/2025.12.19.25342615v1
 
 ## Requirements
 The code should work fine in multiple 3.x python environments. The pytorch 2.x+ and nibabel modules should be installed before running it.
